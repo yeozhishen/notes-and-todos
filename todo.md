@@ -1,3 +1,2 @@
 = TODO =
-- [ ] task 3
-- [ ] task5
+- [ ] get grace hopper in application
